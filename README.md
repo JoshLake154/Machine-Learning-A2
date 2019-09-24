@@ -1,3 +1,2 @@
 # Machine-Learning-A2
-#Joshua Lake
-#Utsav Patel
+Assignment #2 for Joshua Lake and Utsav Patel including the report, video and the code.
